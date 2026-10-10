@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-IXXX
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> Byte Force<br/>
+#### **Team Name**  Byte Force<br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   | Day Scholar/ Hosteller| 
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:---------------------:|
